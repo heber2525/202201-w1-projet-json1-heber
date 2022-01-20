@@ -6,8 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [ "web", "html", "CSS"],
+  "keywords": [
+    "web",
+    "html",
+    "CSS"
+  ],
   "author": "Heber Baraybar",
-  "license": "ISC"
-  
+  "license": "ISC",
+  "dependencies": {
+    "boostrap": "^2.0.0"
+  }
 }
