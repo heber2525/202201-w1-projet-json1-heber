@@ -1,0 +1,13 @@
+{
+  "name": "03-proyect",
+  "version": "1.0.0",
+  "description": "Ejemplo de proyecto front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "web", "html", "CSS"],
+  "author": "Heber Baraybar",
+  "license": "ISC"
+  
+}
