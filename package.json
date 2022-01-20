@@ -15,5 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "boostrap": "^2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
   }
 }
